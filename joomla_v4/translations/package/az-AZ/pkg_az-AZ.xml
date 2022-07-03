@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="package" method="upgrade">
 	<name>Azerbaijani (Azerbaijan) (az-AZ) Language Pack</name>
-	<packagename/>
-	<version/>
-	<creationDate/>
-	<author/>
-	<authorEmail/>
-	<authorUrl/>
-	<copyright/>
+	<packagename>az-AZ</packagename>
+	<version>4.1.5</version>
+	<creationDate>03 2022</creationDate>
+	<author> Joomla Azerbaijan</author>
+	<authorEmail>atig_aliyev@yahoo.de</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright></copyright>
 	<license/>
 	<url/>
-	<packager/>
+	<packager>Azərbaycan dilinə çevirən: Atiq Əliyev</packager>
 	<packagerurl/>
 	<description><![CDATA[az-AZ language pack]]></description>
-	<blockChildUninstall>true</blockChildUninstall>
+	<blockChildUninstall>true>true</blockChildUninstall>
 	<files>
-		<folder type="language" client="site" id=""/>
-		<folder type="language" client="administrator" id=""/>
-		<folder type="language" client="api" id=""/>
+		<folder type="language" client="site" id="az-AZ"/>
+		<folder type="language" client="administrator" id="az-AZ"/>
+		<folder type="language" client="api" id="az-AZ"/>
 	</files>
 	<updateservers>
-		<server type="collection" priority="1" name="">
+		<server type="collection" priority="1" name="Azerbaijan">
 			https://update.joomla.org/language/translationlist_4.xml
 		</server>
 	</updateservers>
